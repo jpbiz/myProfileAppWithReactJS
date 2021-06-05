@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactprofileapp1/static/css/main.d8e19e96.chunk.css",
+    "main.js": "/reactprofileapp1/static/js/main.ba74b754.chunk.js",
+    "main.js.map": "/reactprofileapp1/static/js/main.ba74b754.chunk.js.map",
+    "runtime-main.js": "/reactprofileapp1/static/js/runtime-main.1ed6f31f.js",
+    "runtime-main.js.map": "/reactprofileapp1/static/js/runtime-main.1ed6f31f.js.map",
+    "static/js/2.5e08972d.chunk.js": "/reactprofileapp1/static/js/2.5e08972d.chunk.js",
+    "static/js/2.5e08972d.chunk.js.map": "/reactprofileapp1/static/js/2.5e08972d.chunk.js.map",
+    "static/js/3.37744454.chunk.js": "/reactprofileapp1/static/js/3.37744454.chunk.js",
+    "static/js/3.37744454.chunk.js.map": "/reactprofileapp1/static/js/3.37744454.chunk.js.map",
+    "index.html": "/reactprofileapp1/index.html",
+    "static/css/main.d8e19e96.chunk.css.map": "/reactprofileapp1/static/css/main.d8e19e96.chunk.css.map",
+    "static/js/2.5e08972d.chunk.js.LICENSE.txt": "/reactprofileapp1/static/js/2.5e08972d.chunk.js.LICENSE.txt",
+    "static/media/profile.08bb1ea1.jpg": "/reactprofileapp1/static/media/profile.08bb1ea1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed6f31f.js",
+    "static/js/2.5e08972d.chunk.js",
+    "static/css/main.d8e19e96.chunk.css",
+    "static/js/main.ba74b754.chunk.js"
+  ]
+}
